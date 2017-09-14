@@ -12,4 +12,8 @@ public ModelAndView index(){
 	mv.addObject("greeting", "welcome to spring mvc");
 	return mv;
 }
+
+
+
+
 }
